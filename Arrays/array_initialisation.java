@@ -35,5 +35,7 @@ public class array_initialisation {
         int ele = sc.nextInt();
         System.out.println(Arrays.binarySearch(arr, ele));
 
+        
+
     }
 }
