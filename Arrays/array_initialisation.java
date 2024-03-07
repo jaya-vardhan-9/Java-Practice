@@ -19,7 +19,7 @@ public class array_initialisation {
         for (int i =0; i< len; i++){
             System.out.println(arr[i] + "");
         }
-        /* We cvannot use  System.out.println(arr[i]) coz it returns
+        /* We cannot use  System.out.println(arr[i]) coz it returns
          * the memory address of the stored array
         */
 
